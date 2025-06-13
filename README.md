@@ -1,11 +1,30 @@
-# Sales Dashboard 
-**_I created using Excel! 💻📊 This dashboard brings data to life, offering clear and actionable insights for smarter business decisions._**
-✨ What’s Inside:
- 📈 Sales breakdown by category
- 📉 Profit growth over time
- 🗺️ Sales distribution across states
- 🏆 Top 5 high-profit customers
- 📆 Monthly sales trends
-Using Pivot Tables, I transformed raw data into a visual story — fast, efficient, and insightful! 
-Check out the full project on my GitHub: 🔗 https://lnkd.in/gkXPbX9e
+📊 Excel Sales Dashboard
+This project features a dynamic and insightful Sales Dashboard built entirely in Microsoft Excel. Designed to help businesses make smarter decisions, this dashboard converts raw sales data into actionable insights using Pivot Tables, Charts, and Conditional Formatting.
+
+✨ Dashboard Highlights
+📈 Sales Breakdown by Category
+Compare performance across product categories to understand what drives revenue.
+
+📉 Profit Growth Over Time
+Visualize monthly profit trends to track financial health.
+
+🗺️ Sales Distribution Across States
+Regional analysis to identify high and low-performing areas.
+
+🏆 Top 5 High-Profit Customers
+Focus on your most valuable clients using customer-level insights.
+
+📆 Monthly Sales Trends
+Identify seasonal patterns and optimize business strategies.
+
+🔧 Tools & Techniques Used
+Microsoft Excel
+
+Pivot Tables
+
+Slicers & Filters
+
+Data Cleaning
+
+Charts & Visual Formatting
 
